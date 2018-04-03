@@ -1,0 +1,27 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "json-sql": "^0.3.11",
+    "mssql": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiwarren/scraper.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "warren wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiwarren/scraper/issues"
+  },
+  "homepage": "https://github.com/weiwarren/scraper#readme"
+}
